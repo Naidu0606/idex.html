@@ -1,3 +1,4 @@
 devops is culture of SDLC process
 Devops is a collabration of dev and ops team
 cloud aws
+azure
